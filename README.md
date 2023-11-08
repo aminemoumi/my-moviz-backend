@@ -1,6 +1,3 @@
-## Deployment
-https://my-moviz-frontend-five.vercel.app/
-
 
 # MyMoviz - Backend
 
